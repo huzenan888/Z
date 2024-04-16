@@ -316,5 +316,7 @@ public class Test{
         System.out.println("Hello"+9+1);
         System.out.println("hello world");
         System.out.println("github提交");
+        System.out.println("2024年4月16日");
+        System.out.println("阿南大帅哥   生日快乐  天天开心");
     }
 }
