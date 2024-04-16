@@ -315,5 +315,6 @@ public class Test{
         System.out.println(100%3.0);
         System.out.println("Hello"+9+1);
         System.out.println("hello world");
+        System.out.println("github提交");
     }
 }
