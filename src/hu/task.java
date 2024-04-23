@@ -2,9 +2,9 @@ package hu;
 
 public class task {
         public static void main(String[] args) {
-            System.out.println("ĞÕÃû£ººúÔóÄÏ");
-            System.out.println("°à¼¶£º22ÎïÁªÍø03");
-            System.out.println("Ñ§ºÅ:2022133382");
+            System.out.println("å§“åï¼šåˆ˜å¤‡");
+            System.out.println("ç­çº§ï¼š20ç”µå­å•†åŠ¡");
+            System.out.println("å­¦å·:25586353763");
         }
     }
 
